@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="searchx_logo.png" width=50%>
+   <img src="searchx_logo.png" width="50%">
 </p><br>
 
 SearchX is a scalable collaborative search system being developed by [Lambda Lab](http://www.wis.ewi.tudelft.nl/projects/lambda-lab/) of [TU Delft](https://www.tudelft.nl/).
