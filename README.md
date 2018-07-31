@@ -55,4 +55,7 @@ If you use SearchX to produce results for your scientific publication, please re
  
 <li>Sindunuraga Rikarno Putra, Felipe Moraes and Claudia Hauff. SearchX: Empowering Collaborative Search Research. In <em>Proceedings of the 41st ACM SIGIR Conference on Research and Development in Information Retrieval</em>, Ann Arbor, Michigan, USA, 2018. <a href="https://chauff.github.io/documents/publications/SIGIR2018-moraes.pdf">[PDF Preprint→]</a> <a href="SIGIR2018-Demo-Poster.png"> [Poster→]</a></li>
     
+# Last version
+
+SearchX is in continuous development. The last version date and stable version is from <b>July 2018</b>.
     
