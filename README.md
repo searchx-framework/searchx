@@ -51,9 +51,9 @@ If you use SearchX to produce results for your scientific publication, please re
     
 # Publications
 
-<li>Sindunuraga Rikarno Putra, Kilian Grashoff, Felipe Moraes and Claudia Hauff. SearchX: Empowering Research on Collaborative Search. In <em>Proceedings of the 1st Design of Experimental Search  & Information REtrieval Systems </em>, Bertinoro, Italy, 2018. <a href="https://chauff.github.io/documents/publications/DESIRES2018-Putra.pdf">[PDF Preprint→]</a></li>
+<li>Sindunuraga Rikarno Putra, Kilian Grashoff, Felipe Moraes and Claudia Hauff. SearchX: Empowering Research on Collaborative Search. In <em>Proceedings of the 1st Design of Experimental Search  & Information REtrieval Systems </em>, Bertinoro, Italy, 2018. <a href="https://chauff.github.io/documents/publications/DESIRES2018-Putra.pdf">[PDF Preprint]</a></li>
  
-<li>Sindunuraga Rikarno Putra, Felipe Moraes and Claudia Hauff. SearchX: Empowering Collaborative Search Research. In <em>Proceedings of the 41st ACM SIGIR Conference on Research and Development in Information Retrieval</em>, Ann Arbor, Michigan, USA, 2018. <a href="https://chauff.github.io/documents/publications/SIGIR2018-moraes.pdf">[PDF Preprint→]</a> <a href="SIGIR2018-Demo-Poster.png"> [Poster→]</a></li>
+<li>Sindunuraga Rikarno Putra, Felipe Moraes and Claudia Hauff. SearchX: Empowering Collaborative Search Research. In <em>Proceedings of the 41st ACM SIGIR Conference on Research and Development in Information Retrieval</em>, Ann Arbor, Michigan, USA, 2018. <a href="https://chauff.github.io/documents/publications/SIGIR2018-moraes.pdf">[PDF Preprint]</a> <a href="SIGIR2018-Demo-Poster.png"> [Poster→]</a></li>
     
 # Last version
 
