@@ -21,7 +21,7 @@ It is built on NodeJS using the [React](https://reactjs.org/) + [Flux](https://f
 ## Backend
 
 The backend is responsible for fetching search requests to the search provider and managing the application's data. 
-It is built on NodeJS and exposes its endpoints through [express](https://expressjs.com/) (API) and [socket.io](https://socket.io/) (Websockets). For more details about the frontend go to the [SearchX-backend](https://github.com/felipemoraes/searchx-backend) repository.
+It is built on NodeJS and exposes its endpoints through [express](https://expressjs.com/) (API) and [socket.io](https://socket.io/) (Websockets). For more details about the backend go to the [SearchX-backend](https://github.com/felipemoraes/searchx-backend) repository.
 
 # People
 
