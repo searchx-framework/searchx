@@ -1,4 +1,8 @@
-SearchX is a scalable collaborative search system being developed by [Lambda Lab](http://www.wis.ewi.tudelft.nl/projects/learning-analytics/) of [TU Delft](https://www.tudelft.nl/).
+<p align="center">
+   <img src="searchx_logo.png">
+</p><br>
+
+SearchX is a scalable collaborative search system being developed by [Lambda Lab](http://www.wis.ewi.tudelft.nl/projects/lambda-lab/) of [TU Delft](https://www.tudelft.nl/).
 It is based on [Pienapple Search](http://onlinelibrary.wiley.com/doi/10.1002/pra2.2016.14505301122/full) and is further developed to facilitate collaborative search and sensemaking. SearchX includes features that enable crowdsourced user studies on collaborative search, and is easily extensible for new research.
 
 # Documentation
@@ -19,10 +23,10 @@ It is built on NodeJS and exposes its endpoints through [express](https://expres
 
 The folowing people have been involved in researching and developing SearchX.
 
-- Felipe Moraes
-- Sindunuraga Rikarno Putra
-- Kilian Grashoff
-- Claudia Hauff
+- Felipe Moraes - PhD student at TU Delft
+- Sindunuraga Rikarno Putra - MSc student at TU Delft
+- Kilian Grashoff - MSc student at TU Delft
+- Claudia Hauff - Associate professor at TU Delft
 
 # Contribution
 
