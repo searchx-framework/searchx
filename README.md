@@ -1,12 +1,12 @@
 <p align="center">
-   <img src="searchx_logo.png" width=40%>
+   <img src="searchx_logo.png">
 </p><br>
 
 SearchX is a scalable collaborative search system being developed by [Lambda Lab](http://www.wis.ewi.tudelft.nl/projects/lambda-lab/) of [TU Delft](https://www.tudelft.nl/).
 It is based on [Pienapple Search](http://onlinelibrary.wiley.com/doi/10.1002/pra2.2016.14505301122/full) and is further developed to facilitate collaborative search and sensemaking. SearchX includes features that enable crowdsourced user studies on collaborative search, and is easily extensible for new research.
 
 <p align="center">
-<img align="center" src="interface-main.png" width=60%>
+<img align="center" src="interface-main.png">
 </p><br>
 
 # Documentation
