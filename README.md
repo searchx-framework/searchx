@@ -3,7 +3,7 @@
 </p><br>
 
 SearchX is a scalable collaborative search system being developed by [Lambda Lab](http://www.wis.ewi.tudelft.nl/projects/lambda-lab/) of [TU Delft](https://www.tudelft.nl/).
-It is based on [Pienapple Search](http://onlinelibrary.wiley.com/doi/10.1002/pra2.2016.14505301122/full) and is further developed to facilitate collaborative search and sensemaking. SearchX includes features that enable crowdsourced user studies on collaborative search, and is easily extensible for new research.
+It is based on [Pineapple Search](http://onlinelibrary.wiley.com/doi/10.1002/pra2.2016.14505301122/full) and is further developed to facilitate collaborative search and sensemaking. SearchX includes features that enable crowdsourced user studies on collaborative search, and is easily extensible for new research.
 
 <p align="center">
 <img align="center" src="interface-main.png">
@@ -11,7 +11,7 @@ It is based on [Pienapple Search](http://onlinelibrary.wiley.com/doi/10.1002/pra
 
 # Documentation
 
-SearchX is separeted in frontend and backend. 
+SearchX is separated in frontend and backend. 
 
 ## Frontend
 
@@ -60,4 +60,8 @@ If you use SearchX to produce results for your scientific publication, please re
 # Last version
 
 SearchX is in continuous development. The last version date and stable version is from <b>July 2018</b>.
+
+# Docker
+
+SearchX can be deployed with all the required components using `docker-compose`,  check the **Docker** folder for instructions.
     
