@@ -23,9 +23,13 @@ It is built on NodeJS using the [React](https://reactjs.org/) + [Flux](https://f
 The backend is responsible for fetching search requests to the search provider and managing the application's data. 
 It is built on NodeJS and exposes its endpoints through [express](https://expressjs.com/) (API) and [socket.io](https://socket.io/) (Websockets). For more details about the backend go to the [SearchX-backend](https://github.com/felipemoraes/searchx-backend) repository.
 
+## Docker
+
+The Frontend and Backend of SearchX can be deployed, with all the required components, using `docker-compose`.  Check the **Docker** folder for detailed instructions.
+
 # People
 
-The folowing people have been involved in researching and developing SearchX.
+The following people have been involved in researching and developing SearchX.
 
 - Felipe Moraes - PhD student at TU Delft
 - Sindunuraga Rikarno Putra - MSc student at TU Delft
@@ -59,9 +63,4 @@ If you use SearchX to produce results for your scientific publication, please re
     
 # Last version
 
-SearchX is in continuous development. The last version date and stable version is from <b>July 2018</b>.
-
-# Docker
-
-SearchX can be deployed with all the required components using `docker-compose`,  check the **Docker** folder for instructions.
-    
+SearchX is in continuous development. The last version date and stable version is from <b>July 2018</b>.  
