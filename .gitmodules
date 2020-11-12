@@ -1,0 +1,3 @@
+[submodule "SearchX"]
+	path = SearchX
+	url = https://github.com/mvallet91/SearchX.git
